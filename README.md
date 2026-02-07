@@ -82,7 +82,11 @@ Click **"Predict Survival"** to get results.
 
 ## 🚀 Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/your-username/titanic-survival-prediction
 cd titanic-survival-prediction
+
+⭐ If you like this project, give it a star!
+Made with ❤️ by Geethanjali M
+
