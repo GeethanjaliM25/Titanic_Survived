@@ -1,7 +1,7 @@
 # 🚢 Titanic Survival Prediction App 🧠📊
 
 A Machine Learning web application that predicts whether a passenger survived the Titanic disaster based on personal and travel details.  
-Built using **Python, Scikit-learn, and Streamlit**.
+Built using **Python, Scikit-learn, and Streamlit**..
 
 ---
 
