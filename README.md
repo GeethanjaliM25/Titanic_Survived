@@ -5,7 +5,7 @@ Built using  **Python, Scikit-learn, and Streamlit**
   
 ---
 
-## 🛡️ Badges
+## 🛡️ Badges   
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green)
